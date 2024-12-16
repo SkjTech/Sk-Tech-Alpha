@@ -1,2 +1,2 @@
-<h1 align="center">Sk-Tech-Alpha</h1>
-<p align="center">All Alpha versions of the Sk Tech website; May be buggy!</p>
+<h1 align="center">Sk Tech Alpha V1</h1>
+<p align="center">Version 1</p>
